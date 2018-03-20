@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'dmc_bibliography.blg'
+[57] biber-darwin:290> INFO - === Sun Mar 11, 2018, 20:55:44
+[209] Utils.pm:165> ERROR - Cannot find control file 'dmc_bibliography.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[209] Biber.pm:112> INFO - ERRORS: 1

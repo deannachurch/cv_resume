@@ -1,0 +1,32 @@
+# Fdb version 3
+["biber dmc_resume"] 1520694453 "dmc_resume.bcf" "dmc_resume.bbl" "dmc_resume" 1520694453
+  "dmc_resume.bcf" 1520694427 92099 a2860570f6f07b10b3da63b074ed84e5 ""
+  (generated)
+  "dmc_resume.bbl"
+["pdflatex"] 1520694460 "dmc_resume.tex" "dmc_resume.pdf" "dmc_resume" 1520694460
+  "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty" 1463608860 8253 473e0e41f9adadb1977e8631b8f72ea6 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty" 1463608860 18425 5b3c0c59d76fac78978b5558e83c1f36 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/generic/unicode-data/CaseFolding.txt" 1449876215 74499 11c335947e5ffa8ac69a3e530b8d2b40 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt" 1449876215 16740 4c17368651bc455636f58c3366bdbbeb ""
+  "/usr/local/texlive/2016/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1449876215 1621978 3a83069e69e2a9101dc4749593cd3268 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls" 1459635588 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo" 1459635588 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.sty" 1454367976 1699 41a8dcd7126940efa254804d5311bbda ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1463608779 689679 e146572371041b15f7f0cb49a6cbc969 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty" 1463608779 10238 47b1600390b6a09ec63fa44b042e9805 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def" 1463608779 9817 2a0e97b2721dcf8bb2bb608e1d600374 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1463608779 61846 f081f1a4b6b2ee9ccff101b890bd41dc ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty" 1463002160 55589 34128738f682d033422ca125f82e5d62 ""
+  "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
+  "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "dmc-cv.cls" 1520694360 7576 b8ba350a0180f8eb725852966cdf5b25 ""
+  "dmc_resume.aux" 1520694460 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "dmc_resume.tex" 1520694452 6572 aebb756c4e892572c84a28a866028434 ""
+  (generated)
+  "dmc_resume.out"
+  "dmc_resume.aux"
+  "dmc_resume.log"
+  "dmc_resume.pdf"
