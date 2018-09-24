@@ -349,9 +349,16 @@
   \end{refsection}
 }
 
-\DeclareSortingScheme{chronological}{
-  \sort[direction=descending]{\field{year}}
-  \sort[direction=descending]{\field{month}}
+%\DeclareSortingScheme{chronological}{
+%  \sort[direction=descending]{\field{year}}
+%  \sort[direction=descending]{\field{month}}
+%}
+
+\DeclareSortingTemplate{chronological}{
+  \sort{
+    \field{year}
+    \field{month}
+  }
 }
 
 
