@@ -23,7 +23,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[]{dmc-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
-
+\assignrefcontextentries[]{*}
+\usepackage[backend=biber,style=authoryear,sorting=ydnt]{biblatex}
 \addbibresource{dmc_bibliography.bib} % Specify the bibliography file to include publications
 
 \begin{document}
@@ -465,26 +466,38 @@ Selected courses and lectures.\\
 %----------------------------------------------------------------------------------------
 
 \section{publications}
-
-\printbibsection{article}{article in peer-reviewed journal} % Print all articles from the bibliography
-
-\printbibsection{unpublished}{preprints} %print preprints
-
-\printbibsection{book}{books} % Print all books from the bibliography
-
-\begin{refsection} % This is a custom heading for those references marked as "inproceedings" but not containing "keyword=france"
+\printbibliography[type=article, title={Articles in peer-reviewed journals}]
 \nocite{*}
-\printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=bibheading]
-\end{refsection}
 
-\begin{refsection} % This is a custom heading for those references marked as "inproceedings" and containing "keyword=france"
+\printbibliography[type=unpublished, title={Preprints}]
 \nocite{*}
-\printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=bibheading]
-\end{refsection}
 
-\printbibsection{misc}{other publications} % Print all miscellaneous entries from the bibliography
+%\printbibsection{article}{article in peer-reviewed journal} % Print all articles from the bibliography
 
-\printbibsection{report}{research reports} % Print all research reports from the bibliography
+%\printbibsection{unpublished}{preprints} %print preprints
+
+%\printbibsection{book}{books} % Print all books from the bibliography
+
+%\begin{refsection} % This is a custom heading for those references marked as "inproceedings" but not containing "keyword=france"
+
+%\nocite{*}
+%\printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=bibheading]
+%\begin{refcontext}[sorting=nyt]
+%\printbibliography[type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=bibheading]
+%\end{refcontext}
+%\end{refsection}
+
+%\begin{refsection} % This is a custom heading for those references marked as "inproceedings" and containing "keyword=france"
+%\nocite{*}
+%\printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=bibheading]
+%\begin{refcontext}[sorting=nyt]
+%\printbibliography[type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=bibheading]
+%\end{refcontext}
+%\end{refsection}
+
+%\printbibsection{misc}{other publications} % Print all miscellaneous entries from the bibliography
+
+%\printbibsection{report}{research reports} % Print all research reports from the bibliography
 
 %----------------------------------------------------------------------------------------
 

@@ -190,7 +190,8 @@
 % Bibliography %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
+%\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
+\RequirePackage[style=authoryear, maxnames=99, backend=biber, sorting=ydnt]{biblatex}
 
 \DeclareFieldFormat[article]{title}{#1\par}
 \DeclareFieldFormat[unpublished]{title}{#1\par}
@@ -342,26 +343,19 @@
 \defbibheading{bibheading}[\bibname]{%   \subsubsection*{#1}   \markboth{#1}{#1}
 }
 
-\newcommand{\printbibsection}[2]{
-  \begin{refsection}
-    \nocite{*}
-    \printbibliography[sorting=chronological, type={#1}, title={#2}, heading=bibheading]
-  \end{refsection}
-}
-
-%\DeclareSortingScheme{chronological}{
-%  \sort[direction=descending]{\field{year}}
-%  \sort[direction=descending]{\field{month}}
+%\newcommand{\printbibsection}[2]{
+%  \begin{refsection}
+%    \nocite{*}
+%    \printbibliography[sorting=chronological, type={#1}, title={#2}, heading=bibheading]
+%  \end{refsection}
 %}
 
-\DeclareSortingTemplate{chronological}{
-  \sort{
-    \field{year}
-    \field{month}
-  }
-}
-
-
+%\DeclareSortingTemplate{ymdt}{
+%  \sort[direction=descending]{
+%    \field{year}
+%    \field{month}
+%  }
+%}
 
 %%%%%%%%%%%%%%%%
 % Other tweaks %

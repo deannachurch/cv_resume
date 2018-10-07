@@ -69,7 +69,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldate</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -129,11 +129,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -258,7 +258,6 @@
     <bcf:option datatype="string">citereset</bcf:option>
     <bcf:option datatype="string">backrefstyle</bcf:option>
     <bcf:option datatype="string">arxiv</bcf:option>
-    <bcf:option datatype="string">citepages</bcf:option>
     <bcf:option datatype="boolean">useafterword</bcf:option>
     <bcf:option datatype="boolean">useannotator</bcf:option>
     <bcf:option datatype="boolean">useauthor</bcf:option>
@@ -326,6 +325,7 @@
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">dashed</bcf:option>
+    <bcf:option datatype="boolean">mergedate</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
     <bcf:option datatype="integer">maxnames</bcf:option>
@@ -2094,78 +2094,10 @@
     <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 1 -->
-  <bcf:bibdata section="1">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="1">
+    <bcf:citekey order="0">*</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 2 -->
-  <bcf:bibdata section="2">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="2">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 3 -->
-  <bcf:bibdata section="3">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="3">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 4 -->
-  <bcf:bibdata section="4">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="4">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 5 -->
-  <bcf:bibdata section="5">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="5">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 6 -->
-  <bcf:bibdata section="6">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="6">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 7 -->
-  <bcf:bibdata section="7">
-    <bcf:datasource type="file" datatype="bibtex">dmc_bibliography.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="7">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <bcf:sortlist section="1" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="0" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2192,142 +2124,7 @@
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="2" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
-  <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="3" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
-  <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="4" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
-  <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="5" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
-  <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="6" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
-  <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="7" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="0" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
