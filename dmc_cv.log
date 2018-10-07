@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  7 OCT 2018 13:48
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  7 OCT 2018 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1253,44 +1253,44 @@ Overfull \hbox (0.27357pt too wide) in paragraph at lines 46--46
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 72.
+(Font)              scaled to size 10.00015pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 72.
+(Font)              scaled to size 7.01247pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 72.
+(Font)              scaled to size 4.9808pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 72.
+(Font)              scaled to size 9.99985pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 72.
+(Font)              scaled to size 7.01224pt on input line 76.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 72.
+(Font)              scaled to size 4.98067pt on input line 76.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--152
+Underfull \hbox (badness 10000) in paragraph at lines 76--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
+Underfull \hbox (badness 10000) in paragraph at lines 122--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--177
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--181
 
  []
 
@@ -1301,22 +1301,17 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 
  []
 
@@ -1326,120 +1321,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--208
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--228
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--253
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--255
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--283
+Underfull \hbox (badness 10000) in paragraph at lines 188--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--414
+Underfull \hbox (badness 10000) in paragraph at lines 266--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--414
+Underfull \hbox (badness 10000) in paragraph at lines 293--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--418
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 419--463
+Underfull \hbox (badness 10000) in paragraph at lines 423--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--463
+Underfull \hbox (badness 10000) in paragraph at lines 423--467
 
  []
 
-[3]
-! Argument of \@sectioncolor has an extra }.
-<inserted text> 
-                \par 
-l.469 ...tle={Articles in peer-reviewed journals}]
-                                                  
-? 
-Runaway argument?
-! Paragraph ended before \@sectioncolor was complete.
-<to be read again> 
-                   \par 
-l.469 ...tle={Articles in peer-reviewed journals}]
-                                                  
-? 
-[4] [5] [6]
-Overfull \hbox (6.5876pt too wide) in paragraph at lines 469--469
+[3] [4] [5] [6]
+Overfull \hbox (6.5876pt too wide) in paragraph at lines 474--474
 []\EU1/HelveticaNeueLight(46)/m/n/9 Eric W Sayers, Tanya Barrett, Dennis a Bens
 on, Stephen H Bryant, Kathi Canese, Vyacheslav Chetvernin,
  []
 
-[7] [8] [9]
-! Argument of \@sectioncolor has an extra }.
-<inserted text> 
-                \par 
-l.472 ...aphy[type=unpublished, title={Preprints}]
-                                                  
-? 
-Runaway argument?
-! Paragraph ended before \@sectioncolor was complete.
-<to be read again> 
-                   \par 
-l.472 ...aphy[type=unpublished, title={Preprints}]
-                                                  
-? 
-[10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 504.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 504.
+[7] [8] [9] [10] [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
  (./dmc_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 504.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 504.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 510.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 510.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'dmc_cv.run.xml'.
 \openout1 = `dmc_cv.run.xml'.
 
@@ -1447,10 +1424,10 @@ Package logreq Info: Writing requests to 'dmc_cv.run.xml'.
 Here is how much of TeX's memory you used:
  42282 strings out of 493591
  892171 string characters out of 6143546
- 1428627 words of memory out of 5000000
+ 1428464 words of memory out of 5000000
  45208 multiletter control sequences out of 15000+600000
  5845 words of font info for 73 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 73i,9n,71p,10440b,4265s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,71p,10440b,4263s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dmc_cv.pdf (11 pages).
