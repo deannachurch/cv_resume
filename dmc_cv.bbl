@@ -391,6 +391,79 @@
       \field{pages}{4}
       \range{pages}{1}
     \endentry
+    \entry{Petti2018-cv}{unpublished}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,hash=8ec3a3b210875cfb0fa45be0dba37a67}{%
+           family={Petti},
+           family_i={P\bibinitperiod},
+           given={Allegra\bibnamedelima A},
+           given_i={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=1,hash=43bca9c4663ea7d4ecdc443609581d6c}{%
+           family={Williams},
+           family_i={W\bibinitperiod},
+           given={Stephen\bibnamedelima R},
+           given_i={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=1,hash=4c4cbd77f0bd68c43ec5450ba091b4bd}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={Christopher\bibnamedelima A},
+           given_i={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=6b3f52ce8cceee0f3bcf88dba524f842}{%
+           family={Fiddes},
+           family_i={F\bibinitperiod},
+           given={Ian\bibnamedelima T},
+           given_i={I\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{uniquename=0,hash=f681adb27af155846e085ed87f6408c7}{%
+           family={Srivatsan},
+           family_i={S\bibinitperiod},
+           given={Sridhar\bibnamedelima N},
+           given_i={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{uniquename=1,hash=0b3613ec823ced54838b2538c82e38b1}{%
+           family={Chen},
+           family_i={C\bibinitperiod},
+           given={David\bibnamedelima Y},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{uniquename=0,hash=5ad4f4f8e1baaab783582e856730c440}{%
+           family={Fronick},
+           family_i={F\bibinitperiod},
+           given={Catrina\bibnamedelima C},
+           given_i={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{uniquename=1,hash=11b62151624ce9d7de872205ae602b68}{%
+           family={Fulton},
+           family_i={F\bibinitperiod},
+           given={Robert\bibnamedelima S},
+           given_i={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=2,hash=8ee5f1f5f3bbf5f02bff42c00732741a}{%
+           family={Church},
+           family_i={C\bibinitperiod},
+           given={Deanna\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=f409b225a4d9f699ab6c0ae2d51c900c}{%
+           family={Ley},
+           family_i={L\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bb6b2d6af64e6e11967d62c00178eb75}
+      \strng{fullhash}{bb6b2d6af64e6e11967d62c00178eb75}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2018}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtually all tumors are genetically heterogeneous, containing subclonal populations of cells that are defined by distinct mutations. Subclones can have unique phenotypes that influence disease progression, but these phenotypes are difficult to characterize: subclones usually cannot be physically purified, and bulk gene expression measurements obscure interclonal differences. Single-cell RNA-sequencing has revealed transcriptional heterogeneity within a variety of tumor types, but it is unclear how this expression heterogeneity relates to subclonal genetic events \&\#8212 for example, whether particular expression clusters correspond to mutationally defined subclones. To address this question, we developed an approach that integrates enhanced whole genome sequencing (eWGS) with the 10x Genomics Chromium Single Cell 59 Gene Expression workflow (scRNA-seq) to directly link expressed mutations with transcriptional profiles at single cell resolution. Using bone marrow samples from five cases of primary human Acute Myeloid Leukemia (AML), we generated WGS and scRNA-seq data for each case. Duplicate single cell libraries representing a median of 20,474 cells per case were generated from the bone marrow of each patient. Although the libraries were 59 biased, we detected expressed mutations in cDNAs at distances up to 10 kbp from the 59 ends of well-expressed genes, allowing us to identify hundreds to thousands of cells with AML-specific somatic mutations in every case. This data made it possible to distinguish AML cells (including normal-karyotype AML cells) from surrounding normal cells, to study tumor differentiation and intratumoral expression heterogeneity, to identify expression signatures associated with subclonal mutations, and to find cell surface markers that could be used to purify subclones for further study. The data also revealed transcriptional heterogeneity that occurred independently of subclonal mutations, suggesting that additional factors drive epigenetic heterogeneity. This integrative approach for connecting genotype to phenotype in AML cells is broadly applicable for analysis of any sample that is phenotypically and genetically heterogeneous.}
+      \field{journaltitle}{bioRxiv}
+      \field{month}{10}
+      \field{title}{Mutation detection in thousands of acute myeloid leukemia cells using single cell {RNA-sequencing}}
+      \field{year}{2018}
+      \field{pages}{434746}
+      \range{pages}{1}
+    \endentry
     \entry{Chaisson2017-ei}{unpublished}{}
       \name{author}{90}{}{%
         {{uniquename=0,hash=f95a2a50bf47aa380ecf57f6809446b8}{%

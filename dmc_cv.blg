@@ -1,15 +1,15 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
-[1] Config.pm:346> INFO - Logfile is 'dmc_cv.blg'
-[121] biber-darwin:290> INFO - === Sun Oct  7, 2018, 13:46:37
-[165] Biber.pm:351> INFO - Reading 'dmc_cv.bcf'
-[349] Biber.pm:773> INFO - Using all citekeys in bib section 0
-[372] Biber.pm:3493> INFO - Processing section 0
-[419] Biber.pm:3657> INFO - Looking for bibtex format file 'dmc_bibliography.bib' for section 0
-[510] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[549] bibtex.pm:1048> INFO - Found BibTeX data source 'dmc_bibliography.bib'
-[17708] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[17708] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[17709] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[17709] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[17901] bbl.pm:526> INFO - Writing 'dmc_cv.bbl' with encoding 'UTF-8'
-[17951] bbl.pm:619> INFO - Output to dmc_cv.bbl
+[0] Config.pm:346> INFO - Logfile is 'dmc_cv.blg'
+[65] biber-darwin:290> INFO - === Wed Oct 24, 2018, 13:48:55
+[98] Biber.pm:351> INFO - Reading 'dmc_cv.bcf'
+[214] Biber.pm:773> INFO - Using all citekeys in bib section 0
+[229] Biber.pm:3493> INFO - Processing section 0
+[255] Biber.pm:3657> INFO - Looking for bibtex format file 'dmc_bibliography.bib' for section 0
+[283] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[316] bibtex.pm:1048> INFO - Found BibTeX data source 'dmc_bibliography.bib'
+[11070] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[11070] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[11070] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[11070] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[11251] bbl.pm:526> INFO - Writing 'dmc_cv.bbl' with encoding 'UTF-8'
+[11297] bbl.pm:619> INFO - Output to dmc_cv.bbl

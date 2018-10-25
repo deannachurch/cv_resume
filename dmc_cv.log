@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  8 OCT 2018 19:15
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  24 OCT 2018 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1426,23 +1426,37 @@ Overfull \hbox (6.5876pt too wide) in paragraph at lines 477--477
 on, Stephen H Bryant, Kathi Canese, Vyacheslav Chetvernin,
  []
 
-[7] [8] [9] [10] [11]
+[7] [8] [9]
+Overfull \hbox (11.14609pt too wide) in paragraph at lines 481--481
+[][]\EU1/HelveticaNeueLight(0)/m/n/10 Mutation detection in thousands of acute 
+myeloid leukemia cells using single cell RNA-sequencing 
+ []
+
+[10] [11]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
  (./dmc_cv.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 513.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'dmc_cv.run.xml'.
 \openout1 = `dmc_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42282 strings out of 493591
- 892171 string characters out of 6143546
- 1428464 words of memory out of 5000000
- 45208 multiletter control sequences out of 15000+600000
+ 42217 strings out of 493591
+ 891519 string characters out of 6143546
+ 1432093 words of memory out of 5000000
+ 45143 multiletter control sequences out of 15000+600000
  5845 words of font info for 73 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 73i,9n,71p,10440b,4263s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,71p,10440b,4264s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dmc_cv.pdf (11 pages).
