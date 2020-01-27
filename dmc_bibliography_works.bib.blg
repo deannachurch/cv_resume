@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'dmc_bibliography_works.bib.blg'
+[37] biber-darwin:315> INFO - === Mon Jan 27, 2020, 08:55:52
+[163] Utils.pm:209> ERROR - Cannot find control file 'dmc_bibliography_works.bib.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[163] Biber.pm:114> INFO - ERRORS: 1
