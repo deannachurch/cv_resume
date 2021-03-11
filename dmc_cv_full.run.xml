@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>dmc_cv.bcf</file>
+      <file>dmc_cv_full.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>dmc_cv.bbl</file>
+      <file>dmc_cv_full.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -61,26 +61,26 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>dmc_cv</infile>
+      <infile>dmc_cv_full</infile>
     </cmdline>
     <input>
-      <file>dmc_cv.bcf</file>
+      <file>dmc_cv_full.bcf</file>
     </input>
     <output>
-      <file>dmc_cv.bbl</file>
+      <file>dmc_cv_full.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>dmc_cv.bbl</file>
+      <file>dmc_cv_full.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>dmc_cv.bcf</file>
+      <file>dmc_cv_full.bcf</file>
     </requires>
     <requires type="editable">
-      <file>dmc_bibliography.bib</file>
+      <file>bibliography.bib</file>
     </requires>
   </external>
 </requests>

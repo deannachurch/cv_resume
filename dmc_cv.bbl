@@ -19,6 +19,282 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{Bayega2020-je}{article}{}
+      \name{author}{16}{}{%
+        {{uniquename=0,uniquepart=base,hash=007d010e9e8e2368a60028d00eaf22d5}{%
+           family={Bayega},
+           familyi={B\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18778a9c0c6c5593bd77d60d7620847b}{%
+           family={Djambazian},
+           familyi={D\bibinitperiod},
+           given={Haig},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0fd748eeec439af4a37614e06658b0a2}{%
+           family={Tsoumani},
+           familyi={T\bibinitperiod},
+           given={Konstantina\bibnamedelima T},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2ce627f45e9351f6b8db287c4a06f36d}{%
+           family={Gregoriou},
+           familyi={G\bibinitperiod},
+           given={Maria-Eleni},
+           giveni={M\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=58286dec7c938a6036eea8d9da7fdb13}{%
+           family={Sagri},
+           familyi={S\bibinitperiod},
+           given={Efthimia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=95084ef5c8c08ab2031d8b70f456c84f}{%
+           family={Drosopoulou},
+           familyi={D\bibinitperiod},
+           given={Eleni},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c10fe41c4da9440b76214b25e592185}{%
+           family={Mavragani-Tsipidou},
+           familyi={M\bibinithyphendelim T\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a077fb102432bef254eb4f333f66f43}{%
+           family={Giorda},
+           familyi={G\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b0f75a0c70fa81789e370bc67ddef54d}{%
+           family={Tsiamis},
+           familyi={T\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3df8d44423d5d750267d830a9325df0a}{%
+           family={Bourtzis},
+           familyi={B\bibinitperiod},
+           given={Kostas},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3b433b1b8b2b82dca5e818dbf3829c31}{%
+           family={Oikonomopoulos},
+           familyi={O\bibinitperiod},
+           given={Spyridon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2a35835a65ee72b1285d5221fb64981d}{%
+           family={Dewar},
+           familyi={D\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=2,uniquepart=given,hash=1ecb5c09f6be8b0c3344d6217d86aaac}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Deanna\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{uniquename=0,uniquepart=base,hash=8e97d418c2ca93377a1b4086ab092dc3}{%
+           family={Papanicolaou},
+           familyi={P\bibinitperiod},
+           given={Alexie},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c5e80feb860e10ef41afae186ca1b993}{%
+           family={Mathiopoulos},
+           familyi={M\bibinitperiod},
+           given={Kostas\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c5092ff4411c479e13854f89323ee56}{%
+           family={Ragoussis},
+           familyi={R\bibinitperiod},
+           given={Jiannis},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \strng{fullhash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \strng{bibnamehash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \strng{authorbibnamehash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \strng{authornamehash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \strng{authorfullhash}{8c98a3cb015ed89fc1e591fc1017a80a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: The olive fruit fly, Bactrocera oleae, is the most important pest in the olive fruit agribusiness industry. This is because female flies lay their eggs in the unripe fruits and upon hatching the larvae feed on the fruits thus destroying them. The lack of a high-quality genome and other genomic and transcriptomic data has hindered progress in understanding the fly's biology and proposing alternative control methods to pesticide use. RESULTS: Genomic DNA was sequenced from male and female Demokritos strain flies, maintained in the laboratory for over 45 years. We used short-, mate-pair-, and long-read sequencing technologies to generate a combined male-female genome assembly (GenBank accession GCA\_001188975.2). Genomic DNA sequencing from male insects using 10x Genomics linked-reads technology followed by mate-pair and long-read scaffolding and gap-closing generated a highly contiguous 489 Mb genome with a scaffold N50 of 4.69 Mb and L50 of 30 scaffolds (GenBank accession GCA\_001188975.4). RNA-seq data generated from 12 tissues and/or developmental stages allowed for genome annotation. Short reads from both males and females and the chromosome quotient method enabled identification of Y-chromosome scaffolds which were extensively validated by PCR. CONCLUSIONS: The high-quality genome generated represents a critical tool in olive fruit fly research. We provide an extensive RNA-seq data set, and genome annotation, critical towards gaining an insight into the biology of the olive fruit fly. In addition, elucidation of Y-chromosome sequences will advance our understanding of the Y-chromosome's organization, function and evolution and is poised to provide avenues for sterile insect technique approaches.}
+      \field{journaltitle}{BMC Genomics}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{De novo assembly of the olive fruit fly (Bactrocera oleae) genome with linked-reads and long-read technologies minimizes gaps and provides exceptional {Y} chromosome assembly}
+      \field{volume}{21}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{259}
+      \range{pages}{1}
+      \keyw{Bactrocera oleae; Insect developmental genes; Linked reads; Long reads; Olive fruit fly genome; Y chromosome assembly}
+    \endentry
+    \entry{Church2020-yn}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,uniquepart=given,hash=1ecb5c09f6be8b0c3344d6217d86aaac}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Deanna\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \strng{fullhash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \strng{bibnamehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \strng{authorbibnamehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \strng{authornamehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \strng{authorfullhash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{5}
+      \field{number}{7809}
+      \field{title}{Thousands of human sequences provide deep insight into single genomes}
+      \field{volume}{581}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{385\bibrangedash 386}
+      \range{pages}{2}
+      \keyw{Genetics; Genomics}
+    \endentry
+    \entry{Lotto2020-lq}{article}{}
+      \name{author}{14}{}{%
+        {{uniquename=0,uniquepart=base,hash=34c6f3d81469b1f92170e8a5b137712a}{%
+           family={Lotto},
+           familyi={L\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d4bb77bc7493b4f09e0e3616bfe67a15}{%
+           family={Drissler},
+           familyi={D\bibinitperiod},
+           given={Sibyl},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39f6bfa09f98fb001d690e30ca5f3244}{%
+           family={Cullum},
+           familyi={C\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c1d89b1112687aab0def500c9ed1fd46}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b812ca49c173377638f859c5835f5247}{%
+           family={Setty},
+           familyi={S\bibinitperiod},
+           given={Manu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c475d7461f52cd4c933067b4f0bb6f0a}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Erin\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4aba9b34b319f03abe3ae5f7a1f37bb8}{%
+           family={Boutet},
+           familyi={B\bibinitperiod},
+           given={St{é}phane\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a962c6f4d20416f71f3287f9a5ae0e6e}{%
+           family={Nowotschin},
+           familyi={N\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c46310da724946ccc89d91560b471deb}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Ying-Yi},
+           giveni={Y\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ba4352b731c520b5317f67ff253408d}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Vidur},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25504e4a8fa9f7fbfbc81a03b943d827}{%
+           family={Pe'er},
+           familyi={P\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=2,uniquepart=given,hash=1ecb5c09f6be8b0c3344d6217d86aaac}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Deanna\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{uniquename=0,uniquepart=base,hash=f417da223642ca00654d23fc88186c18}{%
+           family={Hadjantonakis},
+           familyi={H\bibinitperiod},
+           given={Anna-Katerina},
+           giveni={A\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d30f06a563243c314343740161dd9302}{%
+           family={Hoodless},
+           familyi={H\bibinitperiod},
+           given={Pamela\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2821142a6929208dd7190465c042503a}
+      \strng{fullhash}{2821142a6929208dd7190465c042503a}
+      \strng{bibnamehash}{2821142a6929208dd7190465c042503a}
+      \strng{authorbibnamehash}{2821142a6929208dd7190465c042503a}
+      \strng{authornamehash}{2821142a6929208dd7190465c042503a}
+      \strng{authorfullhash}{2821142a6929208dd7190465c042503a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cellular complexity and scale of the early liver have constrained analyses examining its emergence during organogenesis. To circumvent these issues, we analyzed 45,334 single-cell transcriptomes from embryonic day (E)7.5, when endoderm progenitors are specified, to E10.5 liver, when liver parenchymal and non-parenchymal cell lineages emerge. Our data detail divergence of vascular and sinusoidal endothelia, including a distinct transcriptional profile for sinusoidal endothelial specification by E8.75. We characterize two distinct mesothelial cell types as well as early hepatic stellate cells and reveal distinct spatiotemporal distributions for these populations. We capture transcriptional profiles for hepatoblast specification and migration, including the emergence of a hepatomesenchymal cell type and evidence for hepatoblast collective cell migration. Further, we identify cell-cell interactions during the organization of the primitive sinusoid. This study provides a comprehensive atlas of liver lineage establishment from the endoderm and mesoderm through to the organization of the primitive sinusoid at single-cell resolution.}
+      \field{journaltitle}{Cell}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{{Single-Cell} Transcriptomics Reveals Early Emergence of Liver Parenchymal and Non-parenchymal Cell Lineages}
+      \field{volume}{183}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{702\bibrangedash 716.e14}
+      \range{pages}{-1}
+      \keyw{endoderm; hepatoblasts; liver; mesothelium; organogenesis; scRNA-seq; single-cell; sinusoidal endothelium; stellate cells}
+    \endentry
     \entry{Zou2020-aw}{article}{}
       \name{author}{19}{}{%
         {{uniquename=0,uniquepart=base,hash=11e4bb6c92781dcbef43ac1c5a846205}{%
@@ -1694,6 +1970,7 @@
       \strng{authorbibnamehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
       \strng{authornamehash}{1ecb5c09f6be8b0c3344d6217d86aaac}
       \strng{authorfullhash}{1ecb5c09f6be8b0c3344d6217d86aaac}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{extradatescope}{labelyear}
