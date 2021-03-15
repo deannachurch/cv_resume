@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  10 MAR 2021 18:45
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  15 MAR 2021 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,25 +1318,17 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 483.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 483.
 Package rerunfilecheck Info: File `dmc_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'dmc_cv.run.xml'.
 \openout1 = `dmc_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41320 strings out of 492916
- 817808 string characters out of 6133346
- 1797927 words of memory out of 5000000
- 44909 multiletter control sequences out of 15000+600000
+ 41397 strings out of 492916
+ 818646 string characters out of 6133346
+ 1799858 words of memory out of 5000000
+ 44986 multiletter control sequences out of 15000+600000
  533829 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,9n,109p,2427b,4784s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,109p,2427b,4783s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dmc_cv.pdf (11 pages).
