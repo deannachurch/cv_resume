@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  9 MAR 2021 18:07
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  20 DEC 2021 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**dmc_cv_full.tex
+**dmc_cv_full
 (./dmc_cv_full.tex
 LaTeX2e <2018-12-01>
 (./dmc-cv.cls
@@ -1159,41 +1159,27 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 ! Missing { inserted.
 <inserted text> 
                 {
-l.91 }
+l.87 ...nior Director of Applications, Mammalian}}
+                                                  
+? 
+! Missing { inserted.
+<inserted text> 
+                {
+l.99 }
       
 ? 
 
-Overfull \hbox (835.67867pt too wide) in alignment at lines 72--117
+Overfull \hbox (834.37866pt too wide) in alignment at lines 72--125
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--118
+Underfull \hbox (badness 10000) in paragraph at lines 72--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--184
+Underfull \hbox (badness 10000) in paragraph at lines 133--167
 
  []
 
@@ -1204,77 +1190,102 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--206
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
+Underfull \hbox (badness 10000) in paragraph at lines 174--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--253
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--281
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--476
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--489
 
  []
 
@@ -1284,65 +1295,65 @@ Overfull \vbox (417.00563pt too high) has occurred while \output is active []
 
 [3]
 ! Undefined control sequence.
-l.526 \printbibsection
+l.539 \printbibsection
                       {article}{article in peer-reviewed journal} % Print al...
 
 ? 
 ! Undefined control sequence.
-l.528 \printbibsection
+l.541 \printbibsection
                       {book}{books} % Print all books from the bibliography
 ? 
 \blx@maxsegment@1=\count422
 \blx@sectionciteorder@1=\count423
-Package biblatex Info: Reference section=1 on input line 530.
-Package biblatex Info: Setting label 'refsection:1' on input line 530.
+Package biblatex Info: Reference section=1 on input line 543.
+Package biblatex Info: Setting label 'refsection:1' on input line 543.
 
 Package biblatex Warning: 'sorting' option to '\printbibliography' is no longer
  supported.
 (biblatex)                Please use 'sorting' option to '\newrefcontext'.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 532.
+Package biblatex Warning: Type 'inproceedings' not found on input line 545.
 
 
-LaTeX Warning: Empty bibliography on input line 532.
+LaTeX Warning: Empty bibliography on input line 545.
 
-Package biblatex Info: Reference section=0 on input line 533.
+Package biblatex Info: Reference section=0 on input line 546.
 \blx@maxsegment@2=\count424
 \blx@sectionciteorder@2=\count425
-Package biblatex Info: Reference section=2 on input line 535.
-Package biblatex Info: Setting label 'refsection:2' on input line 535.
+Package biblatex Info: Reference section=2 on input line 548.
+Package biblatex Info: Setting label 'refsection:2' on input line 548.
 
 Package biblatex Warning: 'sorting' option to '\printbibliography' is no longer
  supported.
 (biblatex)                Please use 'sorting' option to '\newrefcontext'.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 537.
+Package biblatex Warning: Type 'inproceedings' not found on input line 550.
 
 
-Package biblatex Warning: Keyword 'france' not found on input line 537.
+Package biblatex Warning: Keyword 'france' not found on input line 550.
 
 
-LaTeX Warning: Empty bibliography on input line 537.
+LaTeX Warning: Empty bibliography on input line 550.
 
-Package biblatex Info: Reference section=0 on input line 538.
+Package biblatex Info: Reference section=0 on input line 551.
 ! Undefined control sequence.
-l.540 \printbibsection
+l.553 \printbibsection
                       {misc}{other publications} % Print all miscellaneous e...
 
 ? 
 ! Undefined control sequence.
-l.542 \printbibsection
+l.555 \printbibsection
                       {report}{research reports} % Print all research report...
 
 ? 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 546.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 546.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
  (./dmc_cv_full.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 546.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 546.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 559.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
 Package rerunfilecheck Info: File `dmc_cv_full.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
@@ -1365,6 +1376,6 @@ Here is how much of TeX's memory you used:
  44437 multiletter control sequences out of 15000+600000
  533789 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,9n,109p,799b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,109p,795b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dmc_cv_full.pdf (4 pages).
