@@ -1,10 +1,13 @@
-\ProvidesClass{dmc-cv}[2012/04/30 CV class]
+\ProvidesClass{dmc-cv}[2022/10/25 CV class]
 \NeedsTeXFormat{LaTeX2e}
 
-\DeclareOption{print}{\def\@cv@print{}}
-\DeclareOption*{%
-  \PassOptionsToClass{\CurrentOption}{article}%
-}
+%updating to match friggeri-cv-x, just commenting stuff out for now, not adding A4 option
+%\DeclareOption{print}{\def\@cv@print{}}
+%\DeclareOption*{%
+%  \PassOptionsToClass{\CurrentOption}{article}%
+%}
+
+
 \ProcessOptions\relax
 \LoadClass{article}
 
@@ -23,23 +26,51 @@
 
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
-\definecolor{purple}{HTML}{4C2367}
+\definecolor{purple}{HTML}{D3A4F9}
 \definecolor{red}{HTML}{FB4485}
 \definecolor{blue}{HTML}{6CE0F1}
+\definecolor{fblue}{HTML}{3D539E}
+\definecolor{tblue}{HTML}{55ACEE}
+\definecolor{lblue}{HTML}{0077B5}
+\definecolor{vkblue}{HTML}{A6B8D4}
 
-\ifdefined\@cv@print
+%\ifdefined\@cv@print
+%  \colorlet{green}{gray}
+%  \colorlet{orange}{gray}
+%  \colorlet{purple}{gray}
+%  \colorlet{brown}{gray}
+%  \colorlet{red}{gray}
+%  \colorlet{blue}{gray}
+%  \colorlet{fillheader}{white}
+%  \colorlet{header}{gray}
+%\else
+%  \colorlet{fillheader}{gray}
+%\colorlet{header}{white}
+%\fi
+%\colorlet{textcolor}{gray}
+%\colorlet{headercolor}{gray}
+
+\ifdefined\@dmc-cv@lightheader
+  \colorlet{fillheader}{white}
+  \colorlet{header}{gray}
+\else
+  \colorlet{fillheader}{gray}
+  \colorlet{header}{white}
+\fi 
+
+\ifdefined\@dmc-cv@nocolors
   \colorlet{green}{gray}
   \colorlet{orange}{gray}
   \colorlet{purple}{gray}
   \colorlet{brown}{gray}
   \colorlet{red}{gray}
   \colorlet{blue}{gray}
-  \colorlet{fillheader}{white}
-  \colorlet{header}{gray}
-\else
-  \colorlet{fillheader}{gray}
-  \colorlet{header}{white}
+  \colorlet{fblue}{gray}
+  \colorlet{tblue}{gray}
+  \colorlet{lblue}{gray}
+  \colorlet{vkblue}{gray}
 \fi
+
 \colorlet{textcolor}{gray}
 \colorlet{headercolor}{gray}
 
@@ -48,14 +79,19 @@
 %%%%%%%%%
 
 \RequirePackage[quiet]{fontspec}
-\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+%\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+\RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont[]{Helvetica Neue}
 \newfontfamily\thinfont[]{Helvetica Neue UltraLight}
 \newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
+%\newfontfamily\bodyfont[]{Roboto}
+%\newfontfamily\thinfont[]{Roboto Thin}
+%\newfontfamily\headingfont[]{Roboto Condensed Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
+%\setmainfont[Mapping=tex-text, Color=textcolor]{Roboto Light}
 
 %\setmathfont{XITS Math}
 
@@ -149,6 +185,8 @@
 }{%
   \end{tabular*}
 }
+
+%didn't change this, A4 stuff in friggeri-x
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
   #1&\parbox[t]{11.8cm}{%
@@ -176,7 +214,7 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{4.1}(1.5, 4.33)%changed default from 3.6->4.1
+  \begin{textblock}{3.6}(1.5, 4.33)%changed default from 3.6->4.1; changed back to 3.6- will see how this goes
   \begin{flushright}
   \obeycr
 }{%
@@ -189,6 +227,7 @@
 %%%%%%%%%%%%%%%%
 % Bibliography %
 %%%%%%%%%%%%%%%%
+%didn't mess with this much- especially as this is already set up to seperate preprints from published articles
 
 %\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
 \RequirePackage[style=authoryear, maxnames=99, backend=biber, sorting=ydnt]{biblatex}
@@ -340,7 +379,9 @@
 %    {}%
 %}
 
-\defbibheading{bibheading}[\bibname]{%   \subsubsection*{#1}   \markboth{#1}{#1}
+\defbibheading{bibheading}[\bibname]{%
+   \subsubsection*{#1}
+   \markboth{#1}{#1}
 }
 
 %\newcommand{\printbibsection}[2]{
@@ -363,12 +404,49 @@
 
 \RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
+%\hypersetup{
+%    colorlinks=false,
+%    linkcolor=red,
+%    citecolor=red,
+%    filecolor=red,
+%    urlcolor = red}
+
 \hypersetup{
-    colorlinks=false,
-    linkcolor=red,
-    citecolor=red,
-    filecolor=red,
-    urlcolor = red}
+	hidelinks,
+	%colorlinks,
+	linkcolor=red,
+	citecolor=red,
+	filecolor=red,
+	urlcolor = blue
+}
+
+% Newcommands for glyph printing
+\RequirePackage{graphicx}
+
+% Add a Google-style pin
+\newcommand*{\pin}{%
+  \textcolor{gray}{\includegraphics[height=1em]{resources/pin}}%
+}
+
+% Add fb logo
+\newcommand*{\flogo}{%
+  \textcolor{fblue}{\includegraphics[height=1em]{resources/f_logo}}%
+}
+
+% Add twitter logo
+\newcommand*{\tlogo}{%
+  \textcolor{tblue}{\includegraphics[height=1em]{resources/twitter_logo}}%
+}
+
+% Add linkedin logo
+\newcommand*{\llogo}{%
+  \textcolor{lblue}{\includegraphics[height=1em]{resources/linkedin_logo}}%
+}
+
+% Add github logo
+\newcommand*{\ghlogo}{%
+  \textcolor{vkblue}{\includegraphics[height=1em]{resources/gh_logo}}%
+}
 
 % A fix for \href{}{} colors not working with fontspec
 \makeatletter

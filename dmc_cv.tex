@@ -22,9 +22,11 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[]{dmc-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
-\assignrefcontextentries[]{*}
-\usepackage[backend=biber,style=authoryear,sorting=ydnt]{biblatex}
+\documentclass[]{dmc-cv} % Add 'no colors' as an option into the square bracket to remove colors from this template for printing
+%\assignrefcontextentries[]{*} not sure I need this
+%\usepackage[backend=biber,style=authoryear,sorting=ydnt]{biblatex} %this is in cls- do I need?
+\usepackage{marvosym} % needed to print small glyphs for email, etc
+
 \addbibresource{dmc_bibliography.bib} % Specify the bibliography file to include publications
 
 \begin{document}
@@ -41,9 +43,14 @@
 Boulder, CO 80304
 USA
 ~
-(301) 233 2991
+{\Large\textcolor{gray}{\Mobilefone}} \hfill (301) 233 2991
 ~
-\href{mailto:deanna.church@gmail.com}{deanna.church@gmail.com}
+%href{mailto:deanna.church@gmail.com}{deanna.church@gmail.com}
+
+\tlogo \hfill \href{http://twitter.com/deannachurch}{@deannachurch}
+\llogo \hfill \href{https://www.linkedin.com/in/deanna-church-a8749513/}{in://deannachurch}
+\ghlogo \hfill \href{https://www.github.com/deannachurch}{gh://deannachurch}
+~
 \section{skills}
 Leadership, Mentorship,
 Product Commercialization,
@@ -61,10 +68,10 @@ Python, R, Git,
 HTML, XML/XSLT, Javascript,
 CSS3, SQL \& Perl
 
-github.com/deannachurch
+%github.com/deannachurch %can you add the github log to resources and include above?
 
 \section{languages}
-english, mother tongue
+english
 \end{aside}
 
 %----------------------------------------------------------------------------------------
