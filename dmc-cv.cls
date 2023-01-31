@@ -32,7 +32,7 @@
 \definecolor{fblue}{HTML}{3D539E}
 \definecolor{tblue}{HTML}{55ACEE}
 \definecolor{lblue}{HTML}{0077B5}
-\definecolor{vkblue}{HTML}{A6B8D4}
+\definecolor{ghblue}{HTML}{A6B8D4}
 
 %\ifdefined\@cv@print
 %  \colorlet{green}{gray}
@@ -68,7 +68,7 @@
   \colorlet{fblue}{gray}
   \colorlet{tblue}{gray}
   \colorlet{lblue}{gray}
-  \colorlet{vkblue}{gray}
+  \colorlet{ghblue}{gray}
 \fi
 
 \colorlet{textcolor}{gray}
@@ -214,7 +214,8 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1.5, 4.33)%changed default from 3.6->4.1; changed back to 3.6- will see how this goes
+  \begin{textblock}{4.1}(1.5, 4.33)%changed default from 3.6->4.1- this allows email to print without overflow- note,this works.
+  %\begin{textblock}{3.6}(1.0, 4.33)
   \begin{flushright}
   \obeycr
 }{%
@@ -402,7 +403,8 @@
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
+\RequirePackage[left=6.1cm,top=2cm,right=1.0cm,bottom=2.5cm,nohead,nofoot]{geometry}
+\usepackage[]{}
 \RequirePackage{hyperref}
 %\hypersetup{
 %    colorlinks=false,
@@ -445,7 +447,7 @@
 
 % Add github logo
 \newcommand*{\ghlogo}{%
-  \textcolor{vkblue}{\includegraphics[height=1em]{resources/gh_logo}}%
+  \textcolor{ghblue}{\includegraphics[height=1em]{resources/gh_logo}}%
 }
 
 % A fix for \href{}{} colors not working with fontspec

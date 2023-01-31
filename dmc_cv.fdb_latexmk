@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1666742109 "/Users/deannachurch/Documents/biography/cv_resume/dmc_cv.tex" "dmc_cv.pdf" "dmc_cv" 1666742109
-  "/Users/deannachurch/Documents/biography/cv_resume/dmc_cv.tex" 1666742108 15535 0e9b3561836d5f18f75014320cb0cfe0 ""
+["pdflatex"] 1666913184 "/Users/deannachurch/Documents/biography/cv_resume/dmc_cv.tex" "dmc_cv.pdf" "dmc_cv" 1666913184
+  "/Users/deannachurch/Documents/biography/cv_resume/dmc_cv.tex" 1666913184 16605 e897ed5a597232166d58b41e530584fb ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1636758526 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
@@ -13,9 +13,9 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664046651 2826442 c64ec8802617b6399d0a8dd2f3014ce9 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "dmc-cv.cls" 1666742039 10272 93318fe8333e4ce3907152707e019c74 ""
-  "dmc_cv.aux" 1666742109 32 3985256e7290058c681f74d7a3565a19 ""
-  "dmc_cv.tex" 1666742108 15535 0e9b3561836d5f18f75014320cb0cfe0 ""
+  "dmc-cv.cls" 1666815048 10343 6573c936c68696d9a6e8acff03995edc ""
+  "dmc_cv.aux" 1666913184 32 3985256e7290058c681f74d7a3565a19 ""
+  "dmc_cv.tex" 1666913184 16605 e897ed5a597232166d58b41e530584fb ""
   (generated)
   "dmc_cv.log"
   "dmc_cv.pdf"
